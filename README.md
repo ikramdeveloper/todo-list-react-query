@@ -4,6 +4,8 @@
 
 > Handling server state with react-query & axios
 
+> Implementing Drag & Drop functionality using react-beautiful-dnd
+
 ---
 
 ### Author Links
